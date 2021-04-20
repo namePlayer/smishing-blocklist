@@ -2,3 +2,5 @@
 /trck/
 /pkg/
 /pkge/
+/t/
+/i/
