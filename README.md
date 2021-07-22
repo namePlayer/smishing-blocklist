@@ -2,7 +2,7 @@
 
 # Stop Smishig Malware now!
 
-Contribute by using the Links in [infectedlinks.md](https://github.com/namePlayer/shmishing-blocklist/blob/main/infectedlinks.md) 
+Contribute by using the Links in [infectedlinks.md](https://github.com/namePlayer/smishing-blocklist/blob/main/infectedlinks.md) 
 
 These Links will be reported to the domain providers or webspace providers. 
 
