@@ -1,6 +1,8 @@
-# Stop DHL Malware now!
+> Previously known as "dhl-scamlist"
 
-Contribute by using the Links in [infectedlinks.md](https://github.com/namePlayer/dhl-scamlist/blob/main/infectedlinks.md) 
+# Stop Smishig Malware now!
+
+Contribute by using the Links in [infectedlinks.md](https://github.com/namePlayer/shmishing-blocklist/blob/main/infectedlinks.md) 
 
 These Links will be reported to the domain providers or webspace providers. 
 
